@@ -63,12 +63,6 @@ It includes customer demographics, product categories, payment types, time-based
 
 ---
 
-## 🚀 How to Reproduce
-
-1. Clone this repo:
-```bash
-git clone https://github.com/yourusername/fmcg-sales-sri-lanka-analysis.git
-
 🔜 Coming Soon
 📊 Power BI dashboard (/powerbi/fmcg_dashboard.pbix)
 
@@ -79,3 +73,11 @@ git clone https://github.com/yourusername/fmcg-sales-sri-lanka-analysis.git
 📬 Contact
 Created by: Sachithra Aluvihare
 GitHub: (https://github.com/SamAlu23)
+
+## 🚀 How to Reproduce
+
+1. Clone this repo:
+```bash
+git clone https://github.com/yourusername/fmcg-sales-sri-lanka-analysis.git
+
+
