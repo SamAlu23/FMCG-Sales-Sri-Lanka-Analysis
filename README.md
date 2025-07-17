@@ -64,6 +64,7 @@ It includes customer demographics, product categories, payment types, time-based
 ---
 
 🔜 Coming Soon
+
 📎 PDF version of business insights
 
 ✨ customer segmentation / ML clustering
