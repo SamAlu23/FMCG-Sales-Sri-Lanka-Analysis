@@ -33,7 +33,7 @@ It includes customer demographics, product categories, payment types, time-based
 |------|---------|
 | `Python (pandas, matplotlib, seaborn)` | Data manipulation & visualization |
 | `Jupyter Notebook` | Step-by-step EDA |
-| `Power BI` *(upcoming)* | Dashboarding and interactive business insights |
+| `Power BI`  | Dashboarding and interactive business insights |
 | `Git & GitHub` | Version control and publishing |
 
 ---
