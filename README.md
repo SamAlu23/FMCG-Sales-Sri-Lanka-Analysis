@@ -64,8 +64,6 @@ It includes customer demographics, product categories, payment types, time-based
 ---
 
 🔜 Coming Soon
-📊 Power BI dashboard (/powerbi/fmcg_dashboard.pbix)
-
 📎 PDF version of business insights
 
 ✨ customer segmentation / ML clustering
